@@ -1,0 +1,131 @@
+<a class="slider-close-btn x-button"></a>
+
+<div class="slider-coupon slider-slide slider-slide--active" data-container-layout="logo-left">
+  <div class="slider-content">
+    <div class="slider-action slider-cta slider-cta--v3">
+      <span class="pdg_activate-btn-copy"></span>
+    </div>
+    <h1 class="slider-title"></h1>
+    <a href="#" class="pdg_loc slider-close-btn remind-later" data-string="remindMeLater"></a>
+  </div>
+</div>
+
+<div class="slider-displaying-coupons slider-slide" data-container-layout="logo-bottom">
+  <div class="merchant_header_container">
+    <div class="merchant_header_image">
+      <span style="background: center center/contain no-repeat;"></span>
+    </div>
+  </div>
+  <div class="shopCouponText"></div>
+  <div class="merchant_coupons"></div>
+  <div class="activation-pitch hide" >
+      <span class="pdg_merchant-offer greybold center"></span><!--GET 3% cash back-->      <div></div>
+      <span class="pdg_loc  " data-string="joinBonusOfferLoggedOutStart"></span> <!--PLUS earn a-->
+      <span class="pdg_loc  greybold" data-string="joinBonusOfferLoggedOutMiddle"></span> <!--$$10 Bonus-->
+      <span class="pdg_loc " data-string="joinBonusOfferLoggedOutEnd"></span> <!--when you sign up for Swagbucks today!-->
+      <div style="height:50px;"></div>
+  </div>
+  <div class="coupons_join_cta hide">
+    <div class="coupons_pitch_offer"></div>
+    
+    <input name="emailAddress" type="text" class="pdg_loc sbx_jx_join_email_shop sbxJxRegEmailEmpty"
+      data-string="joinEmailPlaceholder" data-attr="placeholder" />
+    <a class="pdg_loc coupons_pitch_btn" data-string="joinBtnLabel"></a>
+  </div>
+  <div class="banner_msg"></div>
+</div>
+
+<!--APPLYING COUPONS PROCESSING-->
+<div class="slider-applying-coupons slider-slide" data-container-layout="logo-top">
+  <!--gets the correct brand automatically as each one only has height based on it's css-->
+  <div class="mp-apply-results-logo mp-applying-logo  mp-apply-logo"></div>
+  <div class="upm-apply-results-logo upm-applying-logo  upm-apply-logo"></div>
+  <div class="tada-apply-results-logo tada-applying-logo  tada-apply-logo"></div>
+  <div class="sb-image-couponapply sb-image-couponapply-working"></div>
+  
+  <div id="slider-applying-after-logo">
+    <span class="pdg_loc pdg_applying-font" data-string="testingCouponCodes"></span>
+    <!--Testing Coupon Codes-->
+    <span class="pdg_loc slider-smaller pdg_applying-font" data-string="testingCouponCodesSaveMoney"></span>
+    <!-- We're testing the coupons which will <br> save you the most money-->
+    <div class="slider-applying-coupons-progress-bar">
+      <div class="slider-applying-coupons-progress-bar-inner"></div>
+    </div>
+    <div class="slider-body-copy">
+      <span class="pdg_loc pdg_applying-font" data-string="applyingCouponsPurchase"></span>
+      <div class="slider-applying-coupon-copy pdg_applying-font">
+        <div class="slider-applying-coupons-counters">
+          <span class="slider-applying-coupon-num">0</span>
+          <span class="pdg_loc" data-string="of"></span>
+          <span class="pdg_num-coupons"></span>
+        </div>
+        <div class="slider-applying-coupon-code-container">
+          <span class="slider-applying-coupon-code"></span>
+        </div>
+      </div>
+    </div>
+  </div>
+  <div class="shared-image-coupon-apply-footer-logo-container">
+    <div class="sb-image-coupon_apply_footer_logo"></div>
+    <div class="mp-image-coupon-apply-footer-logo"></div>
+    <div class="tada-image-coupon-apply-footer-logo"></div>
+    <div class="upm-image-coupon-apply-footer-logo"></div>
+  </div>
+
+</div>
+
+<!--RESULTS AFTER APPLY COUPONS-->
+<div class="slider-coupon-results-container slider-slide" data-container-layout="logo-top">
+  <div class="mp-apply-results-logo mp-finished-applying-logo mp-apply-logo"></div>
+  <div class="tada-apply-results-logo tada-finished-applying-logo tada-apply-logo"></div>
+  <div class="upm-apply-results-logo upm-finished-applying-logo upm-apply-logo"></div>
+  <div class="sb-image-couponapply sb-image-couponapply-finished-success pdg-display-none"></div>
+  <div class="sb-image-couponapply sb-image-couponapply-finished-did-not-find-better pdg-display-none"></div>
+  <div class="sb-image-couponapply sb-image-couponapply-failed pdg-display-none"></div>
+  <div id="slider-applying-after-logo">
+    <!--<h1 class="pdg_loc" data-string="congratulations"></h1>-->
+    <!-- Congrats...-->
+
+    <span class="pdg_loc pdg-display-none font-grey successfully-applied-coupons pdg_applying-font"
+      data-string="successfullyAppliedCoupons"></span> <!-- we successfull applied coupons...-->
+    <span class="pdg_loc pdg-display-none font-grey did-not-find-better pdg_applying-font"
+      data-string="didNotFindBetterCoupon"></span> <!-- We tested all the coupon codes and saved you some time...-->
+      <div></div>
+      <span class="pdg_loc pdg-display-none already-best-price merchant-text-color  applying-coupons-best-price" data-string="alreadyBestPrice"></span> <!--You already have the best price-->
+
+    <div id="slider-result-dollars-saved" class="slider-result-dollars-saved sb-text-large pdg-display-none "></div>
+    <div class="shared-image-couponapply-plus-line pdg-display-none"></div>
+
+    <span class="pdg_merchant-offer merchant-text-color  applying-coupons-normal-font-size "></span> <!--get 1% cash back-->
+    <div></div>
+    <span class="sb_merchant-offer_dollars applying-coupons-normal-font-size pdg_applying-font pdg-display-none"></span>
+    <div>
+      <button id="slider-continue-to-checkout" class="pdg_loc slider-cta  slider-continue-to-checkout"  data-string="continueToCheckout"></button>
+    </div>
+  </div>
+  <div class="shared-image-coupon-apply-footer-logo-container">
+    <div class="sb-image-coupon_apply_footer_logo"></div>
+    <div class="mp-image-coupon-apply-footer-logo"></div>
+    <div class="tada-image-coupon-apply-footer-logo"></div>
+    <div class="upm-image-coupon-apply-footer-logo"></div>
+  </div>
+
+</div>
+
+<!--never used-->
+<div class="slider-no-valid-coupons slider-slide" data-container-layout="logo-top">
+  <strong class="pdg_loc" data-string="noLuckToday"></strong><br />
+  <span class="pdg_loc slider-smaller" data-string="noValidCouponsFound"></span>
+  <span class="pdg_merchant-offer"></span>
+  <button class="pdg_loc slider-cta slider-cta--default slider-continue-to-checkout"
+    data-string="continueToCheckout"></button>
+</div>
+
+<!--never used what is difference between above?-->
+<div class="slider-no-coupons slider-slide" data-container-layout="logo-top">
+  <strong class="pdg_loc" data-string="noLuckToday"></strong><br />
+  <span class="slider-smaller"></span>
+  <span class="pdg_merchant-offer"></span>
+  <button class="pdg_loc slider-cta slider-cta--default slider-continue-to-checkout"
+    data-string="continueToCheckout"></button>
+</div>

@@ -1,0 +1,42 @@
+{
+  "popup_auth_signup_agreement": {
+    "description": "Agreement",
+    "message": "By Clicking Get $$10 Bonus, I agree to the<br /><a class=\"terms\">Terms of Use</a> and <a class=\"privacy\">Privacy Policy</a>"
+  },
+  "popup_auth_signup_heading": {
+    "description": "Signup heading",
+    "message": "Join Swagbucks and<br /><strong>Get a $$10 Bonus</strong>"
+  },
+  "popup_auth_signup_submit": {
+    "description": "Signup button text",
+    "message": "Get $$10 Bonus"
+  },
+  "popup_merchant_nonmember_offer": {
+    "description": "Non-member offer text, below cash back button in merchant popup.",
+    "message": "Join Swagbucks and get a $$10 Bonus!"
+  },
+  "joinBonusOffer": {
+    "description": "joinBonusOffer",
+    "message": "Join Swagbucks and Get a $$10 Bonus"
+  },
+  "joinBonusOfferLoggedOutStart": {
+    "description": "joinBonusOfferLoggedOutStart",
+    "message": "PLUS earn a"
+  },
+  "joinBonusOfferLoggedOutMiddle": {
+    "description": "joinBonusOfferLoggedOutMiddle",
+    "message": "$$10 Bonus<br/>"
+  },
+  "joinBonusOfferLoggedOutEnd": {
+    "description": "joinBonusOfferLoggedOutEnd",
+    "message": "when you sign up for Swagbucks today!"
+  },
+  "joinBtnLabel": {
+    "description": "joinBtnLabel",
+    "message": "Get $$10 Bonus"
+  },
+  "joinEmailPlaceholder": {
+    "description": "joinEmailPlaceholder",
+    "message": "Enter Email to Get $$10"
+  }
+}

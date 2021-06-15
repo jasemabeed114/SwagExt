@@ -1,0 +1,814 @@
+{
+  "manifest_description": {
+    "description": "Manifest description",
+    "message": "Save your time and money when shopping online! Get alerts when valid coupon codes are available and get cash back."
+  },
+
+  "close": {
+    "description": "close",
+    "message": "Close"
+  },
+  "popup_account_popover_greeting": {
+    "description": "The greeting in the account popover",
+    "message": "Hello\n<b>$NAME$</b>",
+    "placeholders": {
+      "name": {
+        "content": "$1",
+        "example": "Bartholemew"
+      }
+    }
+  },
+  "popup_account_popover_how_does_it_work": {
+    "description": "How does the extension work?",
+    "message": "How does the Swagbutton work?"
+  },
+  "popup_account_popover_lifetime_earned": {
+    "description": "Lifetime Earned",
+    "message": "Lifetime Earned"
+  },
+  "popup_account_popover_my_account": {
+    "description": "My Account",
+    "message": "My Account"
+  },
+  "popup_account_popover_my_activity": {
+    "description": "My Activity",
+    "message": "My Activity"
+  },
+  "popup_account_popover_not_you": {
+    "description": "Not You?",
+    "message": "Not you?"
+  },
+  "popup_account_popover_redeem": {
+    "description": "Redeem SB",
+    "message": "Redeem SB"
+  },
+  "popup_account_popover_refer_a_friend": {
+    "description": "Refer a Friend",
+    "message": "Refer a Friend"
+  },
+  "popup_answer_less_alerts": {
+    "description": "See less alerts",
+    "message": "See Less Alerts"
+  },
+  "popup_answer_more_alerts": {
+    "description": "See more alerts",
+    "message": "See More Alerts"
+  },
+  "popup_answer_survey_time": {
+    "description": "X Min",
+    "message": "$AMOUNT$ Min",
+    "placeholders": {
+      "amount": {
+        "content": "$1",
+        "example": "5"
+      }
+    }
+  },
+  "popup_answer_title": {
+    "description": "Title for answer view",
+    "message": "Featured Surveys"
+  },
+  "popup_answer_view_all": {
+    "description": "View all",
+    "message": "View all surveys"
+  },
+  "popup_answer_no_surveys": {
+    "description": "Sorry, no surveys available.",
+    "message": "Sorry, there are no surveys currently available.<br/>Please check again later."
+  },
+  "popup_auth_error_pass_blank": {
+    "description": "Password blank error",
+    "message": "Please enter your password"
+  },
+  "popup_auth_error_user_blank": {
+    "description": "Email / Swag Name blank error",
+    "message": "Please enter your email address or Swag Name"
+  },
+  "popup_auth_username_placeholder": {
+    "description": "Email / Swag Name field placeholder",
+    "message": "Email Address or Swag Name"
+  },
+  "popup_auth_password_placeholder": {
+    "description": "Password field placeholder",
+    "message": "Your Password"
+  },
+  "popup_auth_forgot_password": {
+    "description": "Forgot your password?",
+    "message": "Forgot your password?"
+  },
+  "popup_auth_log_in": {
+    "description": "Log in",
+    "message": "Log in"
+  },
+  "popup_auth_login_error": {
+    "description": "Generic login error",
+    "message": "Sorry, we are unable to sign you in at this time. Please try again later."
+  },
+  "popup_auth_no_account": {
+    "description": "Don't have an account?",
+    "message": "Don't have an account?"
+  },
+  "popup_auth_sign_up": {
+    "description": "Sign up",
+    "message": "Sign up"
+  },
+  "popup_auth_signup_error": {
+    "description": "Generic signup error",
+    "message": "Sorry, we are unable to create your account at this time. Please try again later."
+  },
+  "popup_auth_signup_agreement": {
+    "description": "Agreement",
+    "message": "By Clicking 'Join Now,' I agree to the<br /><a class=\"terms\">Terms of Use</a> and <a class=\"privacy\">Privacy Policy</a>."
+  },
+  "popup_auth_signup_already_member": {
+    "description": "Already a member?",
+    "message": "Already a member?  Log in."
+  },
+  "popup_auth_signup_heading": {
+    "description": "Signup heading",
+    "message": "Join Swagbucks"
+  },
+  "popup_auth_signup_subheading": {
+    "description": "Signup subheading",
+    "message": "Earn cash back from your favorite<br />merchants with every purchase."
+  },
+  "popup_auth_signup_submit": {
+    "description": "Signup button text",
+    "message": "Join Now"
+  },
+  "popup_error_generic": {
+    "description": "Generic error",
+    "message": "Oops. Something went wrong. Please try again later."
+  },
+  "popup_featured_stores": {
+    "description": "Featured Stores",
+    "message": "Featured Stores"
+  },
+  "popup_featured_stores_view_all": {
+    "description": "View all stores",
+    "message": "View all stores"
+  },
+  "popup_member_balance": {
+    "description": "Account Balance",
+    "message": "Account Balance"
+  },
+  "popup_merchant_coupon_callout_default_discount_label": {
+    "description": "Default value for discount label in coupon callout box.",
+    "message": "Coupon"
+  },
+  "popup_merchant_coupon_callout_default_discount_value": {
+    "description": "Default value for discount value in coupon callout box.",
+    "message": "Hot"
+  },
+  "popup_merchant_coupon_callout_discount_tagline": {
+    "description": "The tagline appearing at the bottom of the coupon callout box.",
+    "message": "Code"
+  },
+  "popup_merchant_coupon_expiration_abbreviation": {
+    "description": "The abbreviation for 'expiration'",
+    "message": "EXP:"
+  },
+  "popup_merchant_coupon_count": {
+    "description": "1 coupon",
+    "message": "1 Coupon Code"
+  },
+  "popup_merchant_coupon_count_plural": {
+    "description": "X coupons",
+    "message": "$AMOUNT$ Coupon Codes",
+    "placeholders": {
+      "amount": {
+        "content": "$1",
+        "example": "5"
+      }
+    }
+  },
+  "popup_merchant_coupon_get_code": {
+    "description": "Get Code",
+    "message": "Get Code"
+  },
+  "popup_merchant_currency_per": {
+    "description": "How many SB per dollar?",
+    "message": "$AMOUNT$ SB per $$",
+    "placeholders": {
+      "amount": {
+        "content": "$1",
+        "example": "5"
+      }
+    }
+  },
+  "popup_merchant_currency_per_up_to": {
+    "description": "Up to how many SB per dollar?",
+    "message": "Up to $AMOUNT$ SB per $$",
+    "placeholders": {
+      "amount": {
+        "content": "$1",
+        "example": "5"
+      }
+    }
+  },
+  "popup_merchant_earn_currency_per": {
+    "description": "Earn how muny SB per dollar?",
+    "message": "Earn $AMOUNT$ per $$",
+    "placeholders": {
+      "amount": {
+        "content": "$1",
+        "example": "5"
+      }
+    }
+  },
+  "popup_merchant_earn_currency_per_up_to": {
+    "description": "Earn up to how many SB per dollar?",
+    "message": "Earn up to $AMOUNT$ per $$",
+    "placeholders": {
+      "amount": {
+        "content": "$1",
+        "example": "5"
+      }
+    }
+  },
+  "popup_merchant_no_coupons": {
+    "description": "No coupons",
+    "message": "No Coupon Codes\nAvailable Right Now"
+  },
+  "popup_merchant_nonmember_offer": {
+    "description": "Non-member offer text, below cash back button in merchant popup.",
+    "message": ""
+  },
+  "popup_nav_answer": {
+    "description": "Answer",
+    "message": "Answer"
+  },
+  "popup_nav_promos": {
+    "description": "The nav item text for the 'promos' view",
+    "message": "Swag Code"
+  },
+  "popup_nav_shop": {
+    "description": "Shop",
+    "message": "Shop"
+  },
+  "popup_privacy": {
+    "description": "Privacy",
+    "message": "Privacy"
+  },
+  "popup_search_placeholder_shop": {
+    "description": "The popup search placeholder for shop",
+    "message": "Search Stores and Coupons"
+  },
+  "popup_search_placeholder_web": {
+    "description": "The popup search placeholder for web",
+    "message": "Search the web & earn"
+  },
+  "popup_search_web": {
+    "description": "Web",
+    "message": "Web"
+  },
+  "popup_settings": {
+    "description": "Settings",
+    "message": "Settings"
+  },
+  "popup_settings_accessibility": {
+    "description": "Accessibility",
+    "message": "Accessibility"
+  },
+  "popup_settings_allow_data_collection": {
+    "description": "Allow Data Collection",
+    "message": "Allow Data Collection"
+  },
+  "popup_settings_allow_data_collection_info": { 
+    "description": "allowDataCollectionDetails", 
+    "message": "Sharing your website visitation and shopping/purchase data with Swagbucks may increase your SB earning potential with exclusive follow-up survey opportunities." 
+  },
+  "popup_settings_by_using": {
+    "description": "By using [extension], you agree to sell your soul to Prodege, LLC",
+    "message": "By using the SwagButton, you agree to our <a class=\"terms\">Terms of Use</a> and <a class=\"privacy\">Privacy Policy</a>"
+  },
+  "popup_settings_default_view": {
+    "description": "Default View",
+    "message": "Default View"
+  },
+  "popup_settings_do_not_sell": {
+    "description": "Do Not Sell My Info",
+    "message": "Do Not Sell My Info"
+  },
+  "popup_settings_hide": {
+    "description": "Hide [extension] on these sites",
+    "message": "Hide SwagButton on <a>these sites</a>"
+  },
+  "popup_settings_collection_notice": {
+    "description": "Notice of Collection of Info",
+    "message": "Notice of Collection of Info"
+  },
+  "popup_settings_financial_notice": {
+    "description": "Notice of Financial Incentives",
+    "message": "Notice of Financial Incentives"
+  },
+  "popup_settings_survey_alerts": {
+    "description": "Survey Alerts",
+    "message": "Survey Alerts"
+  },
+  "popup_settings_survey_alerts_info": {
+    "description": "Info for survey alerts setting",
+    "message": "Notify me when surveys become available."
+  },
+  "popup_settings_title": {
+    "description": "Title of the settings page",
+    "message": "SwagButton Settings"
+  },
+  "popup_swag_alert": {
+    "description": "Swag Code Alert!",
+    "message": "Swag Code Alert!"
+  },
+  "popup_swag_collect": {
+    "description": "Get the code",
+    "message": "Don't have the Swag Code? <a>Collect it here</a>"
+  },
+  "popup_swag_congrats": {
+    "description": "congratsYouEarnedXSbs",
+    "message": "Congratulations, <br/> you have earned $VARIABLE1$ SB!",
+    "placeholders": {
+      "variable1": {
+        "content": "$1",
+        "example": "1"
+      }
+    }
+  },
+  "popup_swag_enter": {
+    "description": "Enter Your Swag Code Here",
+    "message": "Enter Your Swag Code Here"
+  },
+  "popup_swag_enter_blank": {
+    "description": "Please enter code",
+    "message": "Please enter a Swag Code"
+  },
+  "popup_swag_enter_placeholder": {
+    "description": "Placeholder for the 'enter swag code' input",
+    "message": "Enter Swag Code"
+  },
+  "popup_swag_no_code": {
+    "description": "No Swag Code available",
+    "message": "There's no Swag Code available now. <br/><b>Please try again later.</b>"
+  },
+  "popup_swag_redeem": {
+    "description": "Redeem Code",
+    "message": "Redeem Code"
+  },
+
+    "activate": {
+        "description": "activate",
+        "message": "Activate"
+    },
+    "activated": {
+        "description": "activated",
+        "message": "Activated"
+    },    
+    "allowDataCollection": {
+        "description": "allowDataCollection",
+        "message": "Allow data collection for more surveys"
+    },   
+    "allowDataCollectionDetailsLearnMore": {
+        "description": "allowDataCollectionToolTipLearnMore",
+        "message": "Learn More"
+    }, 
+    "alreadyBestPrice": {
+        "description": "alreadyBestPrice",
+        "message": "You already have the best price!"
+    },
+    "alreadyMemberLogin": {
+        "description": "alreadyMemberLogin",
+        "message": "Already a member?  Log in."
+    },
+    "and": {
+        "description": "and",
+        "message": "and"
+    },
+    "andActivate": {
+        "description": "andActivate",
+        "message": "and Activate"
+    },
+    "andCouponAtCheckout": {
+        "description": "andCouponAtCheckout",
+        "message": "and <strong>$VARIABLE1$ coupon</strong> at checkout",
+        "placeholders": {
+            "variable1": {
+                "content": "$1",
+                "example": "2"
+            }
+        }
+    },
+    "andCouponsAtCheckout": {
+        "description": "andCouponsAtCheckout",
+        "message": "and <strong>$VARIABLE1$ coupons</strong> at checkout",
+        "placeholders": {
+            "variable1": {
+                "content": "$1",
+                "example": "2"
+            }
+        }
+    },
+    "applyCoupon": {
+        "description": "applyCoupon",
+        "message": "Apply 1 Coupon"
+    },
+    "applyCoupons": {
+        "description": "applyCoupons",
+        "message": "Apply $VARIABLE$ Coupons",
+        "placeholders": {
+            "VARIABLE": {
+                "content": "$1",
+                "example": "2"
+            }
+        }
+    },
+    "applyingCouponsPurchase": {
+        "description": "applyingCouponsPurchase",
+        "message": "Applying coupon codes to your purchase"
+    },
+    "at": {
+        "description": "at",
+        "message": "at"
+    },
+    "byUsingSwagButton": {
+        "description": "byUsingSwagButton",
+        "message": "By using the SwagButton, you agree to our"
+    },
+    "cashBack": {
+        "description": "cashBack",
+        "message": "Cash Back"
+    },
+    "checkNow": {
+        "description": "checkNow",
+        "message": "Check Now"
+    },
+    "clickSBIconToView": {
+        "description": "clickSBIconToView",
+        "message": "Click on the link below to find the Swag Code."
+    },
+    "congratulations": {
+        "description": "congratulations",
+        "message": "Congratulations!"
+    },
+    "continue": {
+        "description": "continue",
+        "message": "Continue"
+    },
+    "continueToCheckout": {
+        "description": "continueToCheckout",
+        "message": "Continue to checkout"
+    },
+    "copied": {
+        "description": "copied",
+        "message": "Copied"
+    },
+    "coupon": {
+        "description": "coupon",
+        "message": "coupon"
+    },
+    "couponCode": {
+        "description": "couponCode",
+        "message": "Coupon code"
+    },
+    "couponCodes": {
+        "description": "couponCodes",
+        "message": "Coupon codes"
+    },
+    "coupons": {
+        "description": "coupons",
+        "message": "coupons"
+    },
+    "dealActivated": {
+        "description": "dealActivated",
+        "message": "Deal Activated"
+    },
+    "dealActivatedAt": {
+        "description": "dealActivatedAt",
+        "message": "Deal Activated at"
+    },
+    "didNotFindBetterCoupon": {
+        "description": "didNotFindBetterCoupon",
+        "message": "We tested all the coupon codes and saved you some time"
+    },
+    "earn": {
+        "description": "earn",
+        "message": "Earn"
+    },
+    "earnCashback": {
+        "description": "earnCashback",
+        "message": "Cashback"
+    },
+    "earnUpTo": {
+        "description": "earnUpTo",
+        "message": "Earn up to"
+    },
+    "earned": {
+        "description": "earned",
+        "message": "earned"
+    },
+    "earning": {
+        "description": "earning",
+        "message": "Earning"
+    },
+    "enterSwagCodeHere": {
+        "description": "enterSwagCodeHere",
+        "message": "Enter Swag Code here"
+    },
+    "enteredInvalidCode": {
+        "description": "enteredInvalidCode",
+        "message": "You've entered an invalid code"
+    },
+    "featuredStores": {
+        "description": "featuredStores",
+        "message": "Featured Stores"
+    },
+    "get": {
+        "description": "get",
+        "message": "Get"
+    },
+    "getAmountForThisSurvey": {
+        "description": "getAmountForThisSurvey",
+        "message": "Get $VARIABLE1$ for this survey",
+        "placeholders": {
+            "variable1": {
+                "content": "$1",
+                "example": "1.00"
+            }
+        }
+    },
+    "getSomething": {
+        "description": "getSomething",
+        "message": "Get $VARIABLE1$",
+        "placeholders": {
+            "variable1": {
+                "content": "$1",
+                "example": "20% Cash Back"
+            }
+        }
+    },
+    "getSomethingWithUpTo": {
+        "description": "getSomethingWithUpTo",
+        "message": "Get $VARIABLE1$",
+        "placeholders": {
+            "variable1": {
+                "content": "$1",
+                "example": "Up to 20% Cash Back"
+            }
+        }
+    },
+    "getStarted": {
+        "description": "getStarted",
+        "message": "Get Started"
+    },
+    "getUpToSomething": {
+        "description": "getUpToSomething",
+        "message": "Get up to $VARIABLE1$",
+        "placeholders": {
+            "variable1": {
+                "content": "$1",
+                "example": "20% Cash Back"
+            }
+        }
+    },
+    "goNow": {
+        "description": "goNow",
+        "message": "Go Now"
+    },
+    "incorrectEmailPwd": {
+        "description": "incorrectEmailPwd",
+        "message": "Incorrect Email/Password Combination"
+    },
+    "information": {
+        "description": "information",
+        "message": "Information"
+    },
+    "joinBonusOffer": {
+        "description": "joinBonusOffer",
+        "message": "Join Swagbucks"
+    },
+    "joinBonusOfferLoggedOutStart": {
+        "description": "joinBonusOfferLoggedOutStart",
+        "message": "and start earning"
+    },
+    "joinBonusOfferLoggedOutMiddle": {
+        "description": "joinBonusOfferLoggedOutMiddle",
+        "message": "cash back<br/>"
+    },
+    "joinBonusOfferLoggedOutEnd": {
+        "description": "joinBonusOfferLoggedOutEnd",
+        "message": "when you sign up for Swagbucks today!"
+    },
+    "joinBtnLabel": {
+        "description": "joinBtnLabel",
+        "message": "Get Cash Back"
+    },
+    "joinEmailPlaceholder": {
+        "description": "joinEmailPlaceholder",
+        "message": "Email Address"
+    },
+    "joinSBMP": {
+        "description": "joinSBMP",
+        "message": "Join Swagbucks"
+    },
+    "loginCta": {
+        "description": "loginCta",
+        "message": "Log in"
+    },
+    "loginEmail": {
+        "description": "loginEmail",
+        "message": "or log in with your email below"
+    },
+    "manifestDescription": {
+        "description": "manifestDescription",
+        "message": "Save your time and money when shopping online! Get alerts when valid coupon codes are available and get cash back."
+    },
+    "menuShop": {
+        "description": "menuShop",
+        "message": "Shop"
+    },
+    "menuSwagCode": {
+        "description": "menuSwagCode",
+        "message": "Swag Code"
+    },
+    "newSurveyAvail": {
+        "description": "newSurveyAvail",
+        "message": "New Survey Available"
+    },
+    "noAlert": {
+        "description": "noAlert",
+        "message": "No Alerts"
+    },
+    "noCodeRequired": {
+        "description": "noCodeRequired",
+        "message": "No Code Required"
+    },
+    "noLuckToday": {
+        "description": "noLuckToday",
+        "message": "No Luck Today!"
+    },
+    "noValidCouponsFound": {
+        "description": "noValidCouponsFound",
+        "message": "We searched and searched, but we could not <br> find any valid coupons for this purchase."
+    },
+    "notifyAccountBalanceChange": {
+        "description": "notifyAccountBalanceChange",
+        "message": "Notify me when my account balance changes."
+    },
+    "nowActive": {
+        "description": "nowActive",
+        "message": "Now Active"
+    },
+    "of": {
+        "description": "of",
+        "message": "of"
+    },
+    "per": {
+        "description": "per",
+        "message": "per"
+    },
+    "plus": {
+        "description": "plus",
+        "message": "Plus"
+    },
+    "plusEarn": {
+        "description": "plusEarn",
+        "message": "Plus, earn"
+    },
+    "poweredBy": {
+        "description": "poweredBy",
+        "message": "Powered by"
+    },
+    "privacyPolicy": {
+        "description": "privacyPolicy",
+        "message": "Privacy&#160;Policy"
+    },
+    "putCashBack": {
+        "description": "putCashBack",
+        "message": "Put cash back in your wallet!"
+    },
+    "redeemSwagCode": {
+        "description": "redeemSwagCode",
+        "message": "Redeem Swag Code"
+    },
+    "regConfirmCheckEmail": {
+        "description": "regConfirmCheckEmail",
+        "message": "Check your email to complete your registration."
+    },
+    "regConfirmHeadline": {
+        "description": "regConfirmHeadline",
+        "message": "Congratulations!"
+    },
+    "regConfirmWelcome": {
+        "description": "regConfirmWelcome",
+        "message": "You are now part of the Swagbucks family."
+    },
+    "remindMeLater": {
+        "description": "remindMeLater",
+        "message": "Remind me later"
+    },
+    "settingNotification": {
+        "description": "settingNotification",
+        "message": "NOTIFICATIONS"
+    },
+    "settingSetting": {
+        "description": "settingSetting",
+        "message": "SETTINGS"
+    },
+    "shopBonusAvailable": {
+        "description": "shopBonusAvailable",
+        "message": "$VARIABLE1$ Bonus is Available",
+        "placeholders": {
+            "variable1": {
+                "content": "$1",
+                "example": "100"
+            }
+        }
+    },
+    "shopBonusDescription": {
+        "description": "shopBonusDescription",
+        "message": "Make a qualifying purchase today <br>before your bonus expires"
+    },
+    "shopBonusDetails": {
+        "description": "shopBonusDetails",
+        "message": "See Details"
+    },
+    "showCoupons": {
+        "description": "showCoupons",
+        "message": "Show Coupons"
+    },
+    "somethingActivated": {
+        "description": "somethingActivated",
+        "message": "$VARIABLE1$ Activated",
+        "placeholders": {
+            "variable1": {
+                "content": "$1",
+                "example": "Up to 20% Cash Back"
+            }
+        }
+    },
+    "specialTerms": {
+        "description": "specialTerms",
+        "message": "Special Terms"
+    },
+    "successfullyAppliedCoupons": {
+        "description": "successfullyAppliedCoupons",
+        "message": "We just applied the best coupon code and saved you"
+    },
+    "swagCodeAvailable": {
+        "description": "swagCodeAvailable",
+        "message": "There's a Swag Code Available!"
+    },
+    "swagCodeCheckPrompt": {
+        "description": "swagCodeCheckPrompt",
+        "message": "Check to see if there's an active Swag Code"
+    },
+    "termsOfUse": {
+        "description": "termsOfUse",
+        "message": "Terms of Use"
+    },
+    "testingCouponCodes": {
+        "description": "testingCouponCodes",
+        "message": "Testing Coupon Codes"
+    },
+    "testingCouponCodesSaveMoney": {
+        "description": "testingCouponCodesSaveMoney",
+        "message": "We're testing the coupons which will <br> save you the most money."
+    },
+    "thanks": {
+        "description": "thanks",
+        "message": "Thanks!"
+    },
+    "upTo": {
+        "description": "upTo",
+        "message": "up to"
+    },
+    "viewCoupon": {
+        "description": "viewCoupon",
+        "message": "View 1 Coupon"
+    },
+    "viewCoupons": {
+        "description": "viewCoupons",
+        "message": "View $VARIABLE1$ Coupons",
+        "placeholders": {
+            "variable1": {
+                "content": "$1",
+                "example": "2"
+            }
+        }
+    },
+    "weFound": {
+        "description": "weFound",
+        "message": "We found"
+    },
+    "xxxCashBack": {
+        "description": "xxxCashBack",
+        "message": "$VARIABLE1$ Cash Back",
+        "placeholders": {
+            "variable1": {
+                "content": "$1",
+                "example": "Up to 20%"
+            }
+        }
+    },
+    "zu": {
+        "description": "zu",
+        "message": "."
+    }
+}

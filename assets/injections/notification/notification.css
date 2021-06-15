@@ -1,0 +1,115 @@
+.notifySEClass { 
+  z-index: 2147483646 !important;
+  right: 20px !important;
+  position: fixed !important;
+  padding: 4px !important;
+  text-align: left !important;
+  color: #fff !important;
+  width: 372px !important;
+  height: 70px !important;
+  border: 1px solid #999 !important;
+  border-radius: 4px !important;
+  background-color: #fff !important;
+  overflow-y: auto !important;
+  overflow-x: hidden !important;
+  box-shadow: 0px 10px 20px 0px rgba(0, 0, 0, 0.4) !important;
+  display: block !important;
+  top: 5px !important;
+  box-sizing: border-box !important;
+} 
+.notifySEClass .SBStatePopup {
+  display: table !important;
+  height: 100% !important; 
+}
+.notifySEClass .SBStatePopupHide { 
+  display: none !important;
+  height: 100% !important; 
+}
+.SBStateImageContainer { 
+  display: table-cell !important; 
+  vertical-align: middle !important; 
+  text-align: center !important; 
+} 
+.notifySEClass .SBStatePopup .SBStateImageContainer, .notifySEClass .SBStatePopupHide .SBStateImageContainer { 
+  width:50px !important; 
+} 
+.notifySEClass .SBStateImageContainer img { 
+  width:30px !important; 
+} 
+.notifySEClass .SBStateTextContainer { 
+  color:#4C4C4C !important; 
+  line-height: 20px !important; 
+  margin-top: 2px !important; 
+  vertical-align: middle !important; 
+  display: table-cell !important; 
+} 
+.notifySEClass .SBStateTextContainer .SBStatePopupClose { 
+  position: absolute !important; 
+  top: 5px !important; 
+  right: 5px !important; 
+  width:18px !important; 
+  height:18px !important; 
+  float: right !important;
+  cursor: pointer !important; 
+} 
+.notifySEClass .SBStateTextContainer .SBStateTextElement { 
+  font-size: 12px !important; 
+  font-weight: bold !important; 
+} 
+.notifySEClass .SBStateTextContainer #clickViewText { 
+  font-size: 12px !important; 
+}  
+.notifySEClass .SBStateTextContainer .clickViewAllLink { 
+  font-size: 12px !important;
+  text-decoration: underline !important;
+  cursor: pointer !important;
+  position: absolute !important;
+  bottom: 2px !important;
+  right: 40px !important; 
+} 
+.notifySEClass #SBStateUrlAnchor { 
+  color: #2388af !important; 
+  cursor: pointer !important; 
+}
+.sbNotifViewMore { 
+  position: absolute !important; 
+  bottom: 5px !important; 
+  right: 5px !important; 
+  font-size: 12px !important; 
+  line-height: 17px !important;  
+} 
+.sbNotifViewMoreNext, .sbNotifViewMorePrev { 
+  background: 0 !important; 
+  display: inline-block !important; 
+  cursor: pointer !important; 
+  outline: none !important; 
+  color: #2388af !important; 
+  font-weight: bold !important;
+  width: 0 !important;
+  height: 0 !important;
+  border-style: solid !important;
+  border-width: 5px 0 5px 6px !important; 
+  border-color: transparent transparent transparent #69B8D6 !important; 
+  line-height: 12px !important; 
+  vertical-align: middle !important; 
+  margin-left: 5px !important;
+} 
+.sbNotifViewMorePrev { 
+  border-width: 5px 6px 5px 0 !important; 
+  border-color: transparent #69B8D6 transparent transparent !important; 
+  margin-left: 0 !important; 
+  margin-right: 5px !important; 
+} 
+.sbNotifViewMorePrev:hover { 
+  border-color: transparent #5cacca transparent transparent !important;
+} 
+.sbNotifViewMoreNext:hover { 
+  border-color: transparent transparent transparent #5cacca !important;
+} 
+.sbNotifViewMoreDisabled, .sbNotifViewMoreDisabled:hover, .sbNotifViewMoreDisabled2, .sbNotifViewMoreDisabled2:hover { 
+  cursor: default !important; 
+  opacity: .5 !important; 
+}
+#SBStateText {
+  font-weight: bold !important;
+}
